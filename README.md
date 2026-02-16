@@ -24,4 +24,4 @@ Dieses Repository wird automatisch aus dem internen Dokumentations-Repository ge
 ## Kontakt
 
 - **Web:** [sequenz-ev.de](https://sequenz-ev.de)
-- **Instagram:** [@sequenz.ev](https://instagram.com/sequenz.ev)
+- **Instagram:** [@sequenzraves](https://instagram.com/sequenzraves)
